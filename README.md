@@ -3,7 +3,7 @@
  By Viktor Samarin
 
 
-This project is made to catch the scams that go past spam filters, for the elderly and other people that don't know how to distinglish them from real texts. Just open it paste a text and you see what are the red flags or is it a good text.
+This project is made to catch the scams that go past spam filters, for the elderly and other people that don't know how to distinguish them from real texts. Just open it paste a text and you see what are the red flags or is it a good text.
 <sub>Not 100% accurate may be some scams that sneak past</sub>
 
 How to use it?
