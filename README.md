@@ -7,7 +7,7 @@ This project is made to catch the scams that go past spam filters, for the elder
 <sub>Not 100% accurate may be some scams that sneak past</sub>
 
 How to use it?
-Either go to fishbite.viktors.engineer which has a working copy or run it with docker
+Either go to [fishbite.viktors.engineer](fishbite.viktors.engineer) which has a working copy or run it with docker
 ```bash
 docker build -t fishbite .
 docker run -p 8000:8000 fishbite
